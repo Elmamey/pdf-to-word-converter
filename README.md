@@ -20,9 +20,11 @@ A simple app to convert PDF file to Word documents for editing without any ads, 
    cd screwUAd
    
 2. Install the required dependencies:
+      ```bash
 
     pip install -r requirements.txt
    
 4. Run the script:
+   ```bash
 
       python src/screwUAd.py
