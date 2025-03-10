@@ -1,8 +1,6 @@
 # pdf-to-word-converter
 A simple app to convert PDF file to Word documents for editing without any ads, or any extra steps, as straight forward as possible.
-
-
-# ScrewYouAd is  simple Python application to convert PDF files to Word documents while preserving formatting, images, and tables.
+ScrewYouAd is  simple Python application to convert PDF files to Word documents while preserving formatting, images, and tables.
 
 ## Features
 - Converts PDFs to Word documents (`.docx`).
